@@ -1,0 +1,1 @@
+INSERT INTO users (id, username, password, email) VALUES ('fbd0d061-a3d2-45f5-af84-026dc9d4e024', 'huseyinari', '$2a$10$hZlzg/1boO9hUPaq26U2YOD6bHLi7x4UW7w0FOQ.iZb.vQaYk8YTy', 'hsynari1060@gmail.com');

@@ -1,0 +1,9 @@
+services:
+  bankapp-backend:
+    image: huseyinari/bankapp-backend
+    ports:
+      - "8080:8080"
+  bankapp-ui:
+    image: huseyinari/bankapp-ui
+    ports:
+      - "3000:80"
