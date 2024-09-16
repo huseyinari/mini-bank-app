@@ -1,4 +1,4 @@
-# Hüseyin Arı Bank Application
+# Hüseyin Arı Mini Bank Application
 
 Kullanıcı kayıt-giriş işlemleri, hesap oluşturma-güncelleme-listeleme, hesap hareketleri takibi ve hesaplar arası para transferlerini içeren küçük bir banka uygulamasıdır.
 
@@ -7,7 +7,7 @@ Kullanıcı kayıt-giriş işlemleri, hesap oluşturma-güncelleme-listeleme, he
 ## Uygulamayı Başlatma
 
 ```bash
-docker-compose up -d
+docker-compose up
 ```
 
 ## Uygulama Arayüzü
